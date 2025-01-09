@@ -17,4 +17,4 @@ Transaction Trends:
 Customer Performance:
 1) Top-performing merchants by revenue and transaction count.
 2) Underperforming merchant categories or locations.
-Trend based onage, state, profession, education and other KPI's. 
+Trend based on age, state, profession, education and other KPI's. 
